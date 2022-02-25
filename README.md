@@ -4,7 +4,7 @@
 # Usage
 ```bash
   # Download from release
-  https://github.com/Diaz1401/clang-build/releases
+  https://github.com/Diaz1401/clang/releases
   # Extract
   tar xf clang.tar.zst
   ./bin/clang --version
