@@ -11,7 +11,7 @@
 ```
 # Features
 ```
-  ==> Latest Clang 15 targeting 'AArch64' and 'X86'
+  ==> Latest Clang 14 release branch targeting 'AArch64' and 'X86'
   ==> Build Polly and LLD
   ==> Latest Binutils v2.38 targeting 'aarch64-linux-gnu'
   ==> Stripped binaries
