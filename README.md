@@ -1,11 +1,11 @@
 # DroneCI Build Status
 [![Build Status](https://cloud.drone.io/api/badges/Diaz1401/clang-build/status.svg?ref=refs/heads/main)](https://cloud.drone.io/Diaz1401/clang-build)
 
+# Download
+Check latest release [here](https://github.com/Diaz1401/clang/releases/latest)
+
 # Usage
 ```bash
-  # Download latest release from:
-  https://github.com/Diaz1401/clang/releases/latest
-  # Extract
   tar xf clang.tar.zst
   ./bin/clang --version
 ```
