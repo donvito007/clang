@@ -13,7 +13,7 @@
 ```
   ==> Latest Clang 14 release branch targeting 'AArch64' and 'X86'
   ==> Build Polly and LLD
-  ==> Latest Binutils v2.38 targeting 'aarch64-linux-gnu'
+  ==> Latest Binutils v2.38 targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
 ```
 # Build script
