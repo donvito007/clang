@@ -3,8 +3,8 @@
 
 # Usage
 ```bash
-  # Download latest release
-  https://github.com/Diaz1401/clang/releases
+  # Download latest release from:
+  https://github.com/Diaz1401/clang/releases/latest
   # Extract
   tar xf clang.tar.zst
   ./bin/clang --version
