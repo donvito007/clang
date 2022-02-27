@@ -3,7 +3,7 @@
 
 # Usage
 ```bash
-  # Download from release
+  # Download latest release
   https://github.com/Diaz1401/clang/releases
   # Extract
   tar xf clang.tar.zst
@@ -11,8 +11,7 @@
 ```
 # Features
 ```
-  ==> Latest Clang 14 release branch targeting 'AArch64' and 'X86'
-  ==> Build Polly and LLD
+  ==> Latest Clang/LLD 14 release branch targeting 'AArch64' and 'X86'
   ==> Latest Binutils v2.38 targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
 ```
