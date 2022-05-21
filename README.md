@@ -14,7 +14,7 @@ Check latest release [here](https://github.com/Diaz1401/clang/releases/latest)
   ==> Minimal Clang/LLD 14 release branch targeting 'AArch64' and 'X86'
   ==> Latest Binutils v2.38 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
-  ==> Minimal download size (only arround 120-140MB)
+  ==> Minimal download size (only arround 140-150MB)
   ==> Highly compressed tar archive with zstd v1.5.2
 ```
 # Build script
