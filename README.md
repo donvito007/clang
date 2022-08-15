@@ -14,10 +14,10 @@ clang --version
 ```
 # Features
 ```
-  ==> Minimal LLVM 14 release build targeting 'AArch64' and 'X86'
+  ==> Minimal LLVM 15.0.0-rc2 build targeting 'AArch64' and 'X86'
   ==> Latest Binutils v2.38 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
-  ==> Minimal download size (only arround 140-150MB)
+  ==> Minimal download size (only arround 150-160MB)
   ==> Highly compressed tar archive with zstd v1.5.2
   ==> Build LLVM Polly & LLD
 ```
