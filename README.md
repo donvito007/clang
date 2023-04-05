@@ -1,5 +1,5 @@
-# DroneCI Build Status
-[![Build Status](https://cloud.drone.io/api/badges/Diaz1401/clang-build/status.svg?ref=refs/heads/main)](https://cloud.drone.io/Diaz1401/clang-build)
+# GitHub Action Build Status
+[![CI](https://github.com/Diaz1401/clang-build/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Diaz1401/clang-build/actions/workflows/main.yml)
 
 # Download
 Check latest release [here](https://github.com/Diaz1401/clang/releases/latest)
