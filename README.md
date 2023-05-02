@@ -1,5 +1,5 @@
 # GitHub Action Build Status
-[![CI](https://github.com/Diaz1401/clang-build/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Diaz1401/clang-build/actions/workflows/main.yml)
+[![CI](https://github.com/Diaz1401/clang-build/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Diaz1401/clang-build/actions/workflows/build.yml)
 
 # Download
 Check latest release [here](https://github.com/Diaz1401/clang/releases/latest)
@@ -20,11 +20,11 @@ clang --version
 ```
 # Features
 ```
-  ==> Minimal LLVM 15.0.3 build targeting 'AArch64' and 'X86'
+  ==> Minimal LLVM 16.0.2 build targeting 'AArch64' and 'X86'
   ==> Latest Binutils v2.39 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
   ==> Minimal download size (only arround 160-190MB)
-  ==> Highly compressed tar archive with zstd v1.5.2
+  ==> Highly compressed tar archive with zstd v1.5.5
   ==> Build LLVM Polly & LLD
 ```
 # Build script
