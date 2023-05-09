@@ -20,8 +20,8 @@ clang --version
 ```
 # Features
 ```
-  ==> Minimal LLVM 16.0.2 build targeting 'AArch64' and 'X86'
-  ==> Latest Binutils v2.39 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
+  ==> Minimal LLVM 16.0.3 build targeting 'AArch64' and 'X86'
+  ==> Latest Binutils v2.40 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
   ==> Minimal download size (only arround 160-190MB)
   ==> Highly compressed tar archive with zstd v1.5.5
