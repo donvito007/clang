@@ -23,7 +23,8 @@ clang --version
   ==> Minimal LLVM 16.0.3 build targeting 'AArch64' and 'X86'
   ==> Latest Binutils v2.40 release targeting 'aarch64-linux-gnu' and 'x86_64-linux-gnu'
   ==> Stripped binaries
-  ==> Minimal download size (only arround 160-190MB)
+  ==> Build compiler with ThinLTO
+  ==> Minimal download size (only arround 200-250MB)
   ==> Highly compressed tar archive with zstd v1.5.5
   ==> Build LLVM Polly & LLD
 ```
